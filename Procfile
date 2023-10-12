@@ -1,2 +1,2 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True --Voila.ip=0.0.0.0 COMPASS_NEW_21.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True --Voila.ip=0.0.0.0 COMPASS_1.0_beta
 
