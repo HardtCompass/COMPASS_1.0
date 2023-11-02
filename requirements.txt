@@ -6,3 +6,4 @@ pathlib
 geographiclib
 numpy
 voila
+scipy
