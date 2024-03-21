@@ -11,6 +11,5 @@ osmnx
 geopandas
 geopy
 shapely
-tempfile
 time
 math
