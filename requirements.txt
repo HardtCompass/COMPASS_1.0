@@ -11,5 +11,4 @@ osmnx
 geopandas
 geopy
 shapely
-time
 math
