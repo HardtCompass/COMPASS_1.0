@@ -9,7 +9,6 @@ voila
 scipy
 osmnx
 geopandas
-base64
 zipfile
 io
 json
