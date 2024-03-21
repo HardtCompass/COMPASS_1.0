@@ -11,4 +11,3 @@ osmnx
 geopandas
 geopy
 shapely
-math
